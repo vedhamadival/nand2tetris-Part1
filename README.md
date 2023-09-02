@@ -14,3 +14,8 @@
 4.Xor hdl -OUTPUT SCREENSHOT
 ![Screenshot (37)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/eaf5ba68-e9f7-406c-bfa6-992fbfa8dcb1)
 
+5.Mux hdl -OUTPUT SCREENSHOT
+![Screenshot (40)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/1eed7781-183b-4a31-b9d8-c659e905623e)
+
+6.deMux hdl -OUTPUT SCREENSHOT
+![Screenshot (41)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/27878fb1-2101-4e30-b0c5-53d32934d65f)
