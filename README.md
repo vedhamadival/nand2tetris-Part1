@@ -19,3 +19,9 @@
 
 6.deMux hdl -OUTPUT SCREENSHOT
 ![Screenshot (41)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/27878fb1-2101-4e30-b0c5-53d32934d65f)
+
+7.HalfAdder -OUTPUT SCREENSHOT
+![Screenshot (45)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/9754a70e-ee5f-4d05-be69-98a84035101f)
+
+8.FullAdder -OUTPUT SCREENSHOT
+![Screenshot (46)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/6b79ab44-27af-4746-853d-171da5d5c132)
