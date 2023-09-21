@@ -25,3 +25,10 @@
 
 8.FullAdder -OUTPUT SCREENSHOT
 ![Screenshot (46)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/6b79ab44-27af-4746-853d-171da5d5c132)
+
+9. Add16 -OUTPUT SCREENSHOT
+  ![Screenshot (53)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/0082561c-86d2-47dd-87bd-b58b4ab867be)
+
+
+11. ALU -OUTPUT SCREENSHOT
+![Screenshot (52)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/b2a112fa-cd52-41c1-b771-48f48eea5cee)
