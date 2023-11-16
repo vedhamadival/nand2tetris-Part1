@@ -47,3 +47,15 @@
 15. RAM64 -OUTPUT SCREENSHOT
 ![Screenshot (80)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/14ff09af-5e54-4c9d-8f12-0e6178d219a6)
 
+16. PC -OUTPUT SCREENSHOT
+![Screenshot (86)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/f54714a1-b2a5-4f0b-a406-d149f0e1de0f)
+
+18. RAM4K -OUTPUT SCREENSHOT
+![Screenshot (88)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/14a0a5df-625d-4d6e-b677-3fe9d2d18649)
+
+20. RAM16K -OUTPUT SCREENSHOT
+![Screenshot (89)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/f0d96289-e475-4e4c-bfc9-3943b7e0565f)
+
+21. RAM512 -OUTPUT SCREENSHOT
+![Screenshot (87)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/812b81e7-f996-4219-af72-5018b14bbad3)
+
