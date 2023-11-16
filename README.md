@@ -34,3 +34,16 @@
 
 11.ALU -OUTPUT SCREENSHOT
 ![Screenshot (52)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/b2a112fa-cd52-41c1-b771-48f48eea5cee)
+
+12. Bit-OUTPUT SCREENSHOT
+![Screenshot (76)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/bdb1f8cd-ca7c-4284-857f-4228f5945c73)
+
+13.Register- OUTPUT SCREENSHOT
+![Screenshot (77)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/9ee4bc1c-f327-4511-87a5-3baceeafc586)
+
+14. RAM8 - OUTPUT SCREENSHOT 
+![Screenshot (78)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/cd4f63b8-3afd-4ccd-9e2d-9d9791df8cda)
+
+15. RAM64 -OUTPUT SCREENSHOT
+![Screenshot (80)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/14ff09af-5e54-4c9d-8f12-0e6178d219a6)
+
