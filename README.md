@@ -59,3 +59,12 @@
 21. RAM512 -OUTPUT SCREENSHOT
 ![Screenshot (87)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/812b81e7-f996-4219-af72-5018b14bbad3)
 
+22. Mult.asm -OUTPUT SCREENSHOT
+![Screenshot (93)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/db1e7325-340d-455c-84e9-3f0beff4b6b5)
+
+23.fill.asm -OUTPUT SCREENSHOT
+![Screenshot (116)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/da5c077f-c16c-4cbb-b521-4e30829e3aa7)
+
+
+
+
