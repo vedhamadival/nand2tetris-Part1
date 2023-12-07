@@ -60,7 +60,8 @@
 ![Screenshot (87)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/812b81e7-f996-4219-af72-5018b14bbad3)
 
 22. Mult.asm -OUTPUT SCREENSHOT
-![Screenshot (89)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/bba1a253-798b-4395-bfc5-b53d4fca31d1)
+![Screenshot (90)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/58184967-7543-4c8b-a1b0-65c149a85cd6)
+
 
 23.fill.asm -OUTPUT SCREENSHOT
 ![Screenshot (93)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/b536c043-297c-4ce5-8bdb-28e2bf68a139)
