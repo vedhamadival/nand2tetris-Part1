@@ -50,21 +50,36 @@
 16. PC -OUTPUT SCREENSHOT
 ![Screenshot (86)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/f54714a1-b2a5-4f0b-a406-d149f0e1de0f)
 
-18. RAM4K -OUTPUT SCREENSHOT
+17. RAM4K -OUTPUT SCREENSHOT
 ![Screenshot (88)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/14a0a5df-625d-4d6e-b677-3fe9d2d18649)
 
-20. RAM16K -OUTPUT SCREENSHOT
+18. RAM16K -OUTPUT SCREENSHOT
 ![Screenshot (89)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/f0d96289-e475-4e4c-bfc9-3943b7e0565f)
 
-21. RAM512 -OUTPUT SCREENSHOT
+19. RAM512 -OUTPUT SCREENSHOT
 ![Screenshot (87)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/812b81e7-f996-4219-af72-5018b14bbad3)
 
-22. Mult.asm -OUTPUT SCREENSHOT
+20. Mult.asm -OUTPUT SCREENSHOT
 ![Screenshot (90)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/58184967-7543-4c8b-a1b0-65c149a85cd6)
 
-
-23.fill.asm -OUTPUT SCREENSHOT
+21.fill.asm -OUTPUT SCREENSHOT
 ![Screenshot (93)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/b536c043-297c-4ce5-8bdb-28e2bf68a139)
+
+22.Memory.hdl - OUTPUT SCREENSHOT
+![Screenshot (117)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/0e3a23c7-d51c-4631-8e90-39debffc52de)
+
+23.CPU.hdl - OUTPUT SCREENSHOT
+![Screenshot (120)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/51a24f27-77ee-46f5-a81b-eb85585d1f4c)
+
+24.Computer.hdl - OUTPUT SCREENSHOT
+![Screenshot (121)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/afdb85ce-8217-430d-b94c-c41a918f4dff)
+
+25.ComputerRectangle.hdl - OUTPUT SCREENSHOT
+![Screenshot (122)](https://github.com/vedhamadival/nand2tetris-Part1/assets/139621216/7a9837a1-c393-4c70-a904-dc0d444ef842)
+
+
+
+
 
 
 
